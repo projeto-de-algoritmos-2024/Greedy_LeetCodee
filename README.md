@@ -1,6 +1,6 @@
 # Greedy_LeetCodee
 Temas:
- - Algoritmos Ambiciosos - link do video : https://youtu.be/kcqbPOxuUAs
+ - Algoritmos Ambiciosos - link do video : https://youtu.be/QE_43SQeaO0
 # NomedoProjeto
 
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
